@@ -1,0 +1,66 @@
+﻿.navbar {
+            margin-bottom: 0;
+            border-radius: 0;
+        }
+
+        
+        footer {
+            background-color: #f2f2f2;
+            
+        }
+        .liftOfBranding{
+                width: 100%;
+    height: 32px;
+    text-align: left;
+    margin-top: -4px;
+    margin-left: -43px;
+        }
+        .txtValue{
+                text-align: center;
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 600;
+        }
+         .rbc-center-text {
+            font-family: 'Roboto', 'Myriad Set Pro', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial;
+            fill: #2c2e37;
+        }
+
+        .valuesCircle .rbc-center-text-line0 {
+            font-size: 95px;
+        }
+
+        .valuesCircle .rbc-center-text-line1 {
+            font-size: 20px;
+        }
+       .panel-body div {
+                display: inline-block;
+                padding: 20px;
+                width: 20vw;
+            }
+
+
+       /* Sticky footer styles
+-------------------------------------------------- */
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
