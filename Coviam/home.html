@@ -1,0 +1,75 @@
+﻿<!doctype html>
+<html ng-app="app">
+<head>
+  
+		<title>Coviam Assignment</title>
+		<meta charset="utf-8">
+		<meta name="description" content="Coviam Assignment">
+		<meta name="author" content="Task for Job">
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+		<link rel="stylesheet" href="plugins/anima/anima.css">
+		<link rel="stylesheet" href="plugins/owlcarousel/owl.carousel.css">
+		<link rel="stylesheet" href="css/style.min.css">
+		<link href="plugins/fonts/css/font-awesome.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="css/green.css" class="colors">
+
+		
+	</head>
+
+	<body id="home">
+		<div id="main-nav" class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+			<div class="col-lg-12">
+				<div class="navbar-header">
+					
+					<a class="navbar-brand" href="#home" ui-sref="Index" >
+                       
+						<img id="navlogo" style="margin-top:-6px"  src="img/coviam.png" alt="microstore" width="122" height="45">
+					</a>
+
+				</div>
+			
+
+			</div>
+		</div>
+
+		
+
+		<div class="row accern_ngview"  ui-view></div>
+
+		<footer class="footer dark-bg light-typo" >
+			<div class="container">
+				<div class="pull-left copyright accern_footer">
+					&copy; Coviam 2017. Designed by <a href="http://www.swatantra.tech/" target="_blank">Swatantra</a>.<br>
+				</div>
+			</div>
+		</footer>
+		
+
+		
+		
+		<script  type="text/javascript" src="plugins/plugins.js"></script>
+		<script  src="plugins/Script/AngularJs/angular-ui-router.js"></script>
+
+		<!-- Custome JS -->
+		<script  src="Script/module/app.js"></script>
+		<script  src="Script/controller/home.Ctrl.js"></script>
+		<!--<script src="//assets.zendesk.com/embeddable_framework/main.js" data-ze-csp="true" async defer></script>-->
+		<script src="plugins/Script/zendesk.js" script-src="assets.zendesk.com"></script>
+
+		<!--<script>
+			zE(function () {
+				zE.setLocale('de');
+				zE.identify({
+					name: 'John Citizen',
+					email: 'john@example.com',
+					organization: 'VIP'
+				});
+				zE.hide();
+				zE.show();
+			});
+		</script>-->
+	</body>
+
+
+</html>
