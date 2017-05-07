@@ -10,7 +10,7 @@ app.config(function ($stateProvider, $urlRouterProvider) {
     $stateProvider
       .state('Index', {
           url: "/Index",
-          templateUrl: "../../view/dashboard.html",
+          templateUrl: "/../Coviam/view/dashboard.html",
           controller: "home.Ctrl"
       })
   

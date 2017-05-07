@@ -24,68 +24,68 @@
 
         {
             name: "Banana",
-            imgUrl: "../img/box/banana.png"
+            imgUrl: "../Coviam/img/box/banana.png"
         },
         {
             name: "Carrot",
-            imgUrl: "../img/box/carrot.png"
+            imgUrl: "../Coviam/img/box/carrot.png"
         },
         {
             name: "Banana",
-            imgUrl: "../img/box/banana.png"
+            imgUrl: "../Coviam/img/box/banana.png"
         },
         {
             name: "Graps",
-            imgUrl: "../img/box/graps.png"
+            imgUrl: "../Coviam/img/box/graps.png"
         },
         {
             name: "Graps",
-            imgUrl: "../img/box/graps.png"
+            imgUrl: "../Coviam/img/box/graps.png"
 
         },
         {
             name: "Spectrum",
-            imgUrl: "../img/box/spectrum.png"
+            imgUrl: "../Coviam/img/box/spectrum.png"
         },
         {
             name: "Guava",
-            imgUrl: "../img/box/Guava.png"
+            imgUrl: "../Coviam/img/box/Guava.png"
         },
         {
             name: "Spectrum",
-            imgUrl: "../img/box/spectrum.png"
+            imgUrl: "../Coviam/img/box/spectrum.png"
         },
         {
             name: "Banana",
-            imgUrl: "../img/box/banana.png"
+            imgUrl: "../Coviam/img/box/banana.png"
         },
         {
             name: "Guava",
-            imgUrl: "../img/box/Guava.png"
+            imgUrl: "../Coviam/img/box/Guava.png"
         },
         {
             name: "Graps",
-            imgUrl: "../img/box/graps.png"
+            imgUrl: "../Coviam/img/box/graps.png"
         },
         {
             name: "Banana",
-            imgUrl: "../img/box/banana.png"
+            imgUrl: "../Coviam/img/box/banana.png"
         },
         {
             name: "Carrot",
-            imgUrl: "../img/box/carrot.png"
+            imgUrl: "../Coviam/img/box/carrot.png"
         },
         {
             name: "Banana",
-            imgUrl: "../img/box/banana.png"
+            imgUrl: "../Coviam/img/box/banana.png"
         },
         {
             name: "Graps",
-            imgUrl: "../img/box/graps.png"
+            imgUrl: "../Coviam/img/box/graps.png"
         },
         {
             name: "Banana",
-            imgUrl: "../img/box/banana.png"
+            imgUrl: "../Coviam/img/box/banana.png"
         },
 
     ];
