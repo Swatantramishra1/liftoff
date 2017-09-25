@@ -1,5 +1,5 @@
 /* ==============================================
-
+    279788
 Template: ukieCard
 Version: 1.8.1
 Author:	Ukieweb
@@ -23,7 +23,7 @@ body {
 .ukie-icons {
     color: #ffffff;
     border-color: #068cd6;
-    background-color: #00b6f9;
+    background-color: #42AB9E;
 }
 .ukie-icons:hover{
     background-color: #0089d5;
@@ -35,17 +35,17 @@ body {
     border-color: #d1d1d1;
 }
 .btn:hover{
-    border-color: #068cd6;
-    background-color: #00b6f9;
+    border-color: #279788;
+    background-color: #42AB9E;
     color: #ffffff;
 }
 .btn-color{
-    border-color: #008fd9;
-    background-color: #00b6f9;
+    border-color: #279788;
+    background-color: #42AB9E;
     color: #ffffff;
 }
 .btn-color:hover{
-    background-color: #008fd9;
+    background-color: #279788;
     color: #ffffff;
 }
 .block-grey{
@@ -89,12 +89,12 @@ body {
 }
 .navbar.navbar-inverse.navbar-static-top a:hover {
     color: #000;
-    border-color: #00b6f9;
+    border-color: #279788;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
     background: #ffffff;
     color: #000;
-    border-color: #00b6f9;
+    border-color: #279788;
 }
 .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
     color: #000;
@@ -135,23 +135,23 @@ body {
     color: #fff;
 }
 .icons-menu-button {
-    background-color: #00b6f9;
+    background-color: #42AB9E;
     color: #ffffff;
 }
 a.icons-menu-button {
     color: #ffffff;
-    border-color: #058dd7;
+    border-color: #279788;
 }
 a.icons-menu-button:hover,
 a.icons-menu-button:focus,
 .icons-menu-toggle-button:hover{
     color: #ffffff;
-    background-color: #058dd7;
-    border-color: #058dd7;
+    background-color: #279788;
+    border-color: #279788;
 }
 .icons-menu-toggle-button {
-    background-color: #00b6f9;
-    border-color: #058dd7;
+    background-color: #42AB9E;
+    border-color: #279788;
 }
 
 /* ------------------
@@ -169,11 +169,11 @@ a.icons-menu-button:focus,
     color: #d6d6d6;
 }
 .footer a:hover{
-    color: #00b6f9;
+    color: #42AB9E;
 }
 .footer a:hover .ukie-icons{
     border-color: #068cd6;
-    background-color: #00b6f9;
+    background-color: #42AB9E;
     color: #ffffff;
 }
 .footer .copyright{
@@ -221,7 +221,7 @@ a.icons-menu-button:focus,
     color: #c5c5c5;
 }
 .menu-style4 a:hover{
-    color: #00b6f9;
+    color: #42AB9E;
 }
 .menu-style4 a:hover .ukie-icons{
     border-color: #068cd6;
@@ -240,15 +240,15 @@ a.icons-menu-button:focus,
 .owl-theme .owl-controls .owl-buttons div:hover{
     color: #ffffff;
     border-color: #068cd6;
-    background-color: #00b6f9;
+    background-color: #42AB9E;
 }
 
 /* ------------------
     Skills section
 --------------------*/
 .skills .progress-bar{
-    background-color: #00b6f9;
-    border-color: #00b6f9;
+    background-color: #42AB9E;
+    border-color: #42AB9E;
 }
 .skills .progress{
     background-color: #f5f5f5;
@@ -263,14 +263,14 @@ a.icons-menu-button:focus,
     border: 1px solid #e3e3e3 !important;
 }
 .language-skills .progress:hover{
-    background-color: #00b6f9;
+    background-color: #42AB9E;
     color: #fff;
 }
 .language-skills .progress:hover .ratyli .rate, .language-skills .progress:hover .ratyli .rate-empty{
     color: #fff;
 }
 .ratyli .rate{
-    color: #00b6f9;
+    color: #42AB9E;
 }
 .ratyli .rate-empty{
     color: #c6c6c6;
@@ -292,7 +292,7 @@ a.icons-menu-button:focus,
 .portfolio li.active{
     border-color: #008cd6;
     color: #ffffff;
-    background-color: #00b6f9;
+    background-color: #42AB9E;
 }
 .portfolio-item .port-item-cont {
     background: rgba(0, 182, 249, 0.90);
@@ -385,7 +385,7 @@ a.icons-menu-button:focus,
 }
 
 .hi-icon-effect-8 .hi-icon {
-    background: #00b6f9;
+    background: #42AB9E;
 }
 .hi-icon-effect-8 .hi-icon:hover {
     background: #068cd6;
@@ -397,10 +397,10 @@ a.icons-menu-button:focus,
     }
     40% {
         opacity: 0.5;
-        box-shadow: 0 0 0 2px rgba(0,182,249,0.7), 0 0 10px 10px #fff, 0 0 0 12px #00b6f9;
+        box-shadow: 0 0 0 2px rgba(0,182,249,0.7), 0 0 10px 10px #fff, 0 0 0 12px #42AB9E;
     }
     100% {
-        box-shadow: 0 0 0 2px rgba(0,182,249,0.7), 0 0 10px 10px #fff, 0 0 0 12px #00b6f9;
+        box-shadow: 0 0 0 2px rgba(0,182,249,0.7), 0 0 10px 10px #fff, 0 0 0 12px #42AB9E;
         transform: scale(1.5);
         opacity: 0;
     }
@@ -433,7 +433,7 @@ a.icons-menu-button:focus,
 .flex-direction-nav li a.next:hover, .flex-direction-nav li a.prev:hover {
     color: #ffffff;
     border-color: #068cd6;
-    background-color: #00b6f9;
+    background-color: #42AB9E;
 }
 .testimonials .border-left{
     border-left-color: #dfdfdf;
@@ -466,28 +466,28 @@ a.icons-menu-button:focus,
 }
 .table-pricing.best-pricing .header-pricing{
     color: #ffffff;
-    background-color: #00b6f9;
-    border-color: #008fd9;
+    background-color: #42AB9E;
+    border-color: #279788;
 }
 .table-pricing .price-pricing{
     border-color: #dfdfdf;
 }
 .table-pricing.best-pricing .price-pricing{
-    color: #00b6f9;
+    color: #42AB9E;
 }
 .table-pricing .properties-pricing li{
     border-color: #dfdfdf;
     border-bottom-color: #f5f5f5;
 }
 .table-pricing .properties-pricing .arrow-check{
-    color: #00b6f9;
+    color: #42AB9E;
 }
 .table-pricing .footer-pricing{
     border-color: #dfdfdf;
 }
 .table-pricing .new {
     color: #fff;
-    background-color: #00b6f9;
+    background-color: #42AB9E;
 }
 .table-pricing .properties-pricing .del>.arrow-check{
     color: #d6d6d6;
@@ -496,13 +496,13 @@ a.icons-menu-button:focus,
     Resume
 --------------------*/
 .skills ul li:before{
-    color: #00b6f9;
+    color: #42AB9E;
 }
 /* ------------------
     My thoughts
 --------------------*/
 .my-thoughts .ukie-icons:hover{
-    background-color: #00b6f9;
+    background-color: #42AB9E;
 }
 /* ------------------
     Blog
@@ -516,7 +516,7 @@ a.icons-menu-button:focus,
 .blog .post .btn-color-hover:hover{
     color: #ffffff;
     border-color: #068cd6;
-    background-color: #00b6f9;
+    background-color: #42AB9E;
 }
 .blog .post .txt-quote{
     border-color: #ededed;
@@ -603,7 +603,7 @@ a.icons-menu-button:focus,
 .widget_tag_cloud .tagcloud a:hover{
     border-color: #008cd6;
     color: #ffffff;
-    background-color: #00b6f9;
+    background-color: #42AB9E;
 }
 
 .widget_follow_us li a,
@@ -624,7 +624,7 @@ a.icons-menu-button:focus,
     Search
 --------------------*/
 .head.search-head{
-    background-color: #00b6f9;
+    background-color: #42AB9E;
     border-bottom-color: #008cd6;
 }
 .head.search-head .search-input{
@@ -660,7 +660,7 @@ a.icons-menu-button:focus,
     color: #000000;
 }
 .pagination .page-numbers.current {
-    background-color: #00b6f9;
+    background-color: #42AB9E;
     border-color: #008cd6;
     color: #fff;
 }
@@ -672,7 +672,7 @@ a.icons-menu-button:focus,
     Total numbers
 --------------------*/
 .total-numbers .iconspace{
-    color: #00b6f9;
+    color: #42AB9E;
     border-color: #dfdfdf;
 }
 .total-numbers .iconspace:after {
@@ -695,7 +695,7 @@ a.icons-menu-button:focus,
     Switch label
 --------------------*/
 .switch label {
-    background: #00b6f9;
+    background: #42AB9E;
     border: 1px solid #068cd6;
 }
 /* ------------------
@@ -708,7 +708,7 @@ a.icons-menu-button:focus,
     color: #fff;
 }
 .custom-header nav span:hover:before {
-    color: #00b6f9;
+    color: #42AB9E;
 }
 .fc-calendar .fc-row > div.fc-today > span.fc-date {
     color: #fff;
@@ -725,6 +725,6 @@ a.icons-menu-button:focus,
     border-color: #d1d1d1;
 }
 .today .date, .fc-calendar .fc-row > div.fc-today.fc-content:after, .fc-calendar .fc-row > div.fc-today > span.fc-date, .calendar-content .today-note:before {
-    background: #00b6f9;
+    background: #42AB9E;
     border-color: #068cd6;
 }
