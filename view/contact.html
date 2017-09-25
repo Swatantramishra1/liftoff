@@ -1,0 +1,125 @@
+﻿ <!-- Start Head section -->
+<header class="head">
+    <!-- start container -->
+    <div class="container">
+        <!-- start row -->
+        <div class="row">
+            <div class="col-xs-8 col-sm-11 col-lg-11">
+                <img class="logo-page" src="assets/img/contact_l.png" alt="Ukieweb">
+                <!-- Title Page -->
+                <h2 class="title">Contact</h2>
+                <!-- Description Page -->
+                <h4 class="sub-title">Get in touch with me</h4>
+            </div>
+            <div class="col-xs-4 col-sm-1 col-lg-1 text-right">
+                <a href="index.html" class="btn-close hover-animate"></a>
+            </div>
+        </div>
+        <!-- end row -->
+    </div>
+    <!-- end container -->
+</header>
+<!-- End Head section -->
+<!-- Start Content section -->
+<section class="content padding-block border-bottom">
+    <!-- start container -->
+    <div class="container">
+        <!-- start row -->
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-lg-6 padding-bottom">
+                <h3 class="title title-contact">Contact info</h3>
+                <div class="block-grey">
+                    <table>
+                        <tr>
+                            <td class="font-weight-m width-td">Address</td>
+                            <td>{{config.currentAddress}}</td>
+                        </tr>
+                        <tr>
+                            <td class="font-weight-m">Phone</td>
+                            <td><a href="tel:{{config.mobileNo}}">+91 {{config.mobileNo}}</a></td>
+                        </tr>
+                        <tr>
+                            <td class="font-weight-m">E-mail</td>
+                            <td><a href="mailto:{{config.email}}">{{config.email}}</a></td>
+                        </tr>
+                        <tr>
+                            <td class="font-weight-m">Skype</td>
+                            <td>{{config.outlook}}</td>
+                        </tr>
+                        <tr>
+                            <td class="font-weight-m">Website</td>
+                            <td><a href="index.html">{{config.website}}</a></td>
+                        </tr>
+                    </table>
+                    <!-- social icon -->
+                    <div class="social">
+                        <ul class="animated" data-animation="fadeIn" data-animation-delay="600">
+                            <!-- social icons -->
+                            <li><a class="ukie-icons hover-animate" href="https://www.facebook.com/s3swatantra" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="ukie-icons hover-animate" href="https://in.linkedin.com/in/swatantra3"><i class="fa fa-linkedin"></i></a></li>
+                            <!--
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-behance"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-pinterest"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-digg"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-deviantart"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-envelope-square"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-delicious"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-instagram"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-dropbox"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-skype"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-tumblr"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-vimeo-square"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-flickr"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-github-alt"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-renren"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-vk"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-xing"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-weibo"></i></a></li>
+                                <li><a class="ukie-icons hover-animate" href="#"><i class="fa fa-rss"></i></a></li>
+                            -->
+                        </ul>
+                    </div>
+                    <!-- end social icon -->
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-lg-6">
+                <h3 class="title title-contact">Contact form</h3>
+                <!-- Start Contact Form -->
+                <div class="contact-form">
+                    <form action="https://ukieweb.com/envato/ukiecard/style3/assets/php/contact.php" id="contact-form" method="post">
+                        <input type="text" id="user-name" name="user-name" value="" placeholder="Name" />
+                        <input type="email" id="user-email" name="user-email" value="" placeholder="Email" />
+                        <input type="hidden" id="user-status" name="user-status" value="1" />
+                        <textarea id="user-message" name="user-message" placeholder="Message"></textarea>
+                        <div class="footer-form">
+                            <input type="submit" id="submit-btn" class="btn btn-color hover-animate" value="Send Message" />
+                            <div class="info-message-form">
+                                <p>Please fill out all the fields!</p>
+                                <span class="close-msg"><i class="fa fa-close"></i></span>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <!-- End Contact Form -->
+            </div>
+        </div>
+        <!-- end row -->
+    </div>
+    <!-- end container -->
+</section>
+<!-- End Content section -->
+<!-- Start Map section -->
+<div class="contact-map padding-block text-center">
+    <!-- start container -->
+    <div class="container">
+        <!-- start row -->
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-lg-12">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3806.1103808776006!2d78.3682562!3d17.4544302!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93c50c5104f1%3A0xfec34579c047bb85!2sTranquil+Towers%2C+Whitefields%2C+HITEC+City%2C+Hyderabad%2C+Telangana+500081!5e0!3m2!1sen!2sin!4v1506367997828" style="width:100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+        </div>
+        <!-- end row -->
+    </div>
+    <!-- end container -->
+</div>
+<!-- End Map section -->
